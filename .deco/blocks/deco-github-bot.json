@@ -5,11 +5,76 @@
       "github": {
         "webhook_secret": {
           "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "9d3648e5630ba187d5d20df8f30f91ef",
+          "name": "ADMIN_WEBHOOK_SECRET"
+        },
+        "org_name": "deco-sites",
+        "repo_name": "admin"
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [],
+      "active": true
+    },
+    {
+      "github": {
+        "webhook_secret": {
+          "__resolveType": "website/loaders/secret.ts",
           "encrypted": "7c460dd589e3767461cfc36fa49fe1df",
           "name": "WEBDRAW_WEBHOOK_SECRET"
         },
         "org_name": "deco-cx",
         "repo_name": "webdraw"
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [],
+      "active": true
+    },
+    {
+      "github": {
+        "webhook_secret": {
+          "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "1b42a746c39ace0ee3f85252a9d9ff5d"
+        },
+        "org_name": "deco-cx",
+        "repo_name": "apps"
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [],
+      "active": true
+    },
+    {
+      "github": {
+        "webhook_secret": {
+          "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "f341bbf9b0f87b7b8b336ebea545b695"
+        },
+        "org_name": "deco-cx",
+        "repo_name": "deco"
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [],
+      "active": true
+    },
+    {
+      "github": {
+        "webhook_secret": {
+          "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "c603082344f5fa6ed2c8b7846e084551"
+        },
+        "org_name": "deco-cx",
+        "repo_name": "infra"
       },
       "discord": {
         "pr_channel_id": "1296129800142065675",
