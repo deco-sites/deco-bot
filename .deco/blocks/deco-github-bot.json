@@ -5,7 +5,7 @@
       "github": {
         "webhook_secret": {
           "__resolveType": "website/loaders/secret.ts",
-          "encrypted": "62d4cd525aa5348ccf49a74068cbc308e17e4b7ce922ee4580e73a6521cbae40bd80f5edcdb40e7000306dd27cbe2939",
+          "encrypted": "7c460dd589e3767461cfc36fa49fe1df",
           "name": "WEBDRAW_WEBHOOK_SECRET"
         },
         "org_name": "deco-cx",
@@ -22,7 +22,7 @@
   "discord": {
     "token": {
       "__resolveType": "website/loaders/secret.ts",
-      "encrypted": "0a64b2817c70844dc40eab0317a76b1a7a7bfbefbd666f17cfddac076b172ac4a9a4dd1243a7aaacb7457d658e9f31511e0e616d7b28fdb8b1d908556557f3bdd2d48e00930ce68e8ebba5b3c3224c24ff260442533d07c71ff5b1b617dd6be8a29be7e679ec7fa9fd582bea2bb74f5da80f5284dd64ea99e8fb081f1ca68d7fd7f83c46f0ec93b15da30b833a1cdc08f996902c207c41c85fd9416fb3a0d24f214fcc1ca692b0713278a6923b5fc664",
+      "encrypted": "25c97feb0e6b9d75723cb563585e71e515b288837abc97660f99de473c79305d46f8bf2b798fdae64a679093c872b5c5fa9311b9a8cd4a9550b224a34efc1ae9e7dcbee3dc7840b813ce9dcc5bbba648",
       "name": "DISCORD_BOT"
     },
     "public_key": "c9fbe9057f1c68c0644317c86b8b72dec75bedc3c28272b25985595a1c12e5fc",
@@ -30,12 +30,12 @@
   },
   "githubToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "8d58ef577d4d59895ca5fbe781527680c2603aac2badbb580819bd8ee0b910ffa8503d47bce5f97a79f9a3fd1d8e03d36cd3cc3a0082a51b2198884bde35af374a185421f1f443be0897587e281bd0db8a8b2f192a587377efa69c77a7f7ec67e846335de1299cb84c0927d8d0af1fbc",
+    "encrypted": "ee72fb7465017f6268e0137c7659861b24850e83e27ef9f7bd0ea5526965e12f7e294230f031a8dd3965f784c22dec30",
     "name": "GITHUB_TOKEN"
   },
   "cronJobSecret": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "b66f1f8d0698acefb3799be7113abeb4e35369f8cf922c7e3802ff1f5b958fc1666f1292323d5bd9c12d480e0927c56f",
+    "encrypted": "3a7cef63031bc55b5ea66433a1ade2a7",
     "name": "CRONJOB_SECRET"
   },
   "confirmPullRequestReview": false
