@@ -33,7 +33,7 @@
     "std/": "https://deno.land/std@0.190.0/",
     "site/": "./",
     "deco/": "https://cdn.jsdelivr.net/gh/deco-cx/deco@1.106.2/",
-    "apps/": "https://cdn.jsdelivr.net/gh/deco-cx/apps@f045077a27415de47aa4f34fba07a3932ea6a99f/",
+    "apps/": "https://cdn.jsdelivr.net/gh/deco-cx/apps@5f0881e88f0bd12a66fdf9a56241f2101c62bcbb/",
     "@preact/signals": "https://esm.sh/*@preact/signals@1.2.2",
     "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.5.1",
     "daisyui": "npm:daisyui@4.4.19",
