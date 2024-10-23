@@ -18,7 +18,11 @@
       "github": {
         "org_name": "deco-cx",
         "repo_name": "webdraw",
-        "webhook_secret": null
+        "webhook_secret": {
+          "__resolveType": "website/loaders/secret.ts",
+          "encrypted": "7c460dd589e3767461cfc36fa49fe1df",
+          "name": "WEBDRAW_SECRET"
+        }
       },
       "discord": {
         "pr_channel_id": "1296129800142065675",
