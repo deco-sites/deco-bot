@@ -1,0 +1,7 @@
+{
+  "__resolveType": "github-bot/loaders/user.ts",
+  "user": {
+    "discordId": "123803347424772098",
+    "githubUsername": "mcandeia"
+  }
+}
