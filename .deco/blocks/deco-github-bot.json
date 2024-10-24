@@ -18,17 +18,74 @@
       "github": {
         "org_name": "deco-cx",
         "repo_name": "webdraw",
-        "webhook_secret": {
-          "__resolveType": "website/loaders/secret.ts",
-          "encrypted": "7c460dd589e3767461cfc36fa49fe1df",
-          "name": "WEBDRAW_SECRET"
-        }
+        "webhook_secret": null
       },
       "discord": {
         "pr_channel_id": "1296129800142065675",
         "summary_channel_id": "1296129800142065675"
       },
-      "users": [],
+      "users": [
+        {
+          "__resolveType": "Brasileiro"
+        },
+        {
+          "__resolveType": "Camudo"
+        },
+        {
+          "__resolveType": "Candeia"
+        },
+        {
+          "__resolveType": "Carol"
+        },
+        {
+          "__resolveType": "Drica"
+        },
+        {
+          "__resolveType": "Estrangeiro"
+        },
+        {
+          "__resolveType": "Gaudencio"
+        },
+        {
+          "__resolveType": "Gimenes"
+        },
+        {
+          "__resolveType": "Hericles"
+        },
+        {
+          "__resolveType": "Hugo"
+        },
+        {
+          "__resolveType": "Itamar"
+        },
+        {
+          "__resolveType": "João Victor"
+        },
+        {
+          "__resolveType": "Jonatas Venancio"
+        },
+        {
+          "__resolveType": "José Miguel"
+        },
+        {
+          "__resolveType": "Lucis"
+        },
+        {
+          "__resolveType": "Mantiqueira"
+        },
+        {
+          "__resolveType": "Nathan"
+        },
+        {
+          "__resolveType": "Tavano"
+        },
+        {
+          "__resolveType": "Vinicius Trindade"
+        },
+        {
+          "__resolveType": "Vitor Trindade"
+        }
+      ],
       "active": true
     },
     {
