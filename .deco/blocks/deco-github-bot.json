@@ -14,23 +14,6 @@
       "users": [
         {
           "__resolveType": "Brasileiro"
-        }
-      ],
-      "active": true
-    },
-    {
-      "github": {
-        "org_name": "deco-cx",
-        "repo_name": "webdraw",
-        "webhook_secret": null
-      },
-      "discord": {
-        "pr_channel_id": "1296129800142065675",
-        "summary_channel_id": "1296129800142065675"
-      },
-      "users": [
-        {
-          "__resolveType": "Brasileiro"
         },
         {
           "__resolveType": "Camudo"
@@ -40,9 +23,6 @@
         },
         {
           "__resolveType": "Carol"
-        },
-        {
-          "__resolveType": "Drica"
         },
         {
           "__resolveType": "Estrangeiro"
@@ -72,7 +52,69 @@
           "__resolveType": "Lucis"
         },
         {
-          "__resolveType": "Mantiqueira"
+          "__resolveType": "Nathan"
+        },
+        {
+          "__resolveType": "Vinicius Trindade"
+        },
+        {
+          "__resolveType": "Vitor Trindade"
+        },
+        {
+          "__resolveType": "Pedro França"
+        }
+      ],
+      "active": true
+    },
+    {
+      "github": {
+        "org_name": "deco-cx",
+        "repo_name": "webdraw",
+        "webhook_secret": null
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [
+        {
+          "__resolveType": "Brasileiro"
+        },
+        {
+          "__resolveType": "Camudo"
+        },
+        {
+          "__resolveType": "Candeia"
+        },
+        {
+          "__resolveType": "Carol"
+        },
+        {
+          "__resolveType": "Estrangeiro"
+        },
+        {
+          "__resolveType": "Gaudencio"
+        },
+        {
+          "__resolveType": "Gimenes"
+        },
+        {
+          "__resolveType": "Hericles"
+        },
+        {
+          "__resolveType": "Itamar"
+        },
+        {
+          "__resolveType": "João Victor"
+        },
+        {
+          "__resolveType": "Jonatas Venancio"
+        },
+        {
+          "__resolveType": "José Miguel"
+        },
+        {
+          "__resolveType": "Lucis"
         },
         {
           "__resolveType": "Nathan"
