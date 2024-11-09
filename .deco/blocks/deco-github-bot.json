@@ -255,5 +255,6 @@
     "encrypted": "3a7cef63031bc55b5ea66433a1ade2a7",
     "name": "CRONJOB_SECRET"
   },
-  "confirmPullRequestReview": false
+  "confirmPullRequestReview": false,
+  "drizzleClient": {}
 }
