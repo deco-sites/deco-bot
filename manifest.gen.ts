@@ -2,9 +2,9 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$$$$$$0 from "./apps/deco/github-bot.ts";
-import * as $$$$$$$$$$$1 from "./apps/deco/htmx.ts";
-import * as $$$$$$$$$$$2 from "./apps/deco/records.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$1 from "./apps/deco/records.ts";
+import * as $$$$$$$$$$$2 from "./apps/local/github-bot.ts";
 import * as $$$$$$$$$$$3 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/Footer.tsx";
 import * as $$$$$$1 from "./sections/ItWorks.tsx";
@@ -17,9 +17,9 @@ const manifest = {
     "site/sections/Theme/Theme.tsx": $$$$$$2,
   },
   "apps": {
-    "site/apps/deco/github-bot.ts": $$$$$$$$$$$0,
-    "site/apps/deco/htmx.ts": $$$$$$$$$$$1,
-    "site/apps/deco/records.ts": $$$$$$$$$$$2,
+    "site/apps/deco/htmx.ts": $$$$$$$$$$$0,
+    "site/apps/deco/records.ts": $$$$$$$$$$$1,
+    "site/apps/local/github-bot.ts": $$$$$$$$$$$2,
     "site/apps/site.ts": $$$$$$$$$$$3,
   },
   "name": "site",

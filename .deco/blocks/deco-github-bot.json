@@ -1,5 +1,5 @@
 {
-  "__resolveType": "site/apps/deco/github-bot.ts",
+  "__resolveType": "site/apps/local/github-bot.ts",
   "projects": [
     {
       "github": {
@@ -256,5 +256,10 @@
     "name": "CRONJOB_SECRET"
   },
   "confirmPullRequestReview": false,
-  "drizzleClient": {}
+  "drizzleClient": {},
+  "drizzle": {
+    "data": {},
+    "__resolveType": "resolved"
+  },
+  "a": {}
 }

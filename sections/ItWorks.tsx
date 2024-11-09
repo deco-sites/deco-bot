@@ -1,7 +1,4 @@
-import type { LoaderContext } from "@deco/deco";
 import { useSection } from "@deco/deco/hooks";
-import type { AppContext as DrizzleContext } from "apps/records/mod.ts";
-import type { AppContext } from "site/apps/site.ts";
 
 export interface Props {
   /**
@@ -11,15 +8,6 @@ export interface Props {
    */
   name?: string;
   count?: number;
-}
-
-export async function loader(
-  props: Props,
-  _req: Request,
-  ctx: LoaderContext<AppContext, DrizzleContext>,
-) {
-  const drizzle = await ctx.invoke("records/loaders/drizzle.ts");
-  return props;
 }
 
 export default function Section({ name = "It Works!", count = 0 }: Props) {
