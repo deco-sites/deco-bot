@@ -39,12 +39,12 @@
     "daisyui": "npm:daisyui@4.4.19",
     "@deco/htmx": "https://denopkg.com/deco-cx/apps@0.63.0/htmx/mod.ts",
     "https://esm.sh/*preact-render-to-string@6.3.1": "npm:preact-render-to-string@6.4.2",
-    "@deco/deco": "jsr:@deco/deco@^1.107.0",
+    "@deco/deco": "jsr:@deco/deco@1.107.0",
     "@deco/dev": "jsr:@deco/dev@1.107.0",
     "drizzle-orm": "https://esm.sh/drizzle-orm@0.30.10",
     "drizzle-orm/": "https://esm.sh/drizzle-orm@0.30.10/",
     "drizzle-kit": "https://esm.sh/drizzle-kit@0.21.2",
-    "deco-bot/": "../decobot/"
+    "deco-bot/": "https://denopkg.com/deco-cx/deco-bot@0.2.0/"
   },
   "tasks": {
     "start": "deno run -A --unstable-http --env https://deco.cx/run -- deno task dev",
