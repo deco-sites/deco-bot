@@ -1,4 +1,5 @@
 import { useSection } from "@deco/deco/hooks";
+
 export interface Props {
   /**
    * @format rich-text
@@ -8,6 +9,7 @@ export interface Props {
   name?: string;
   count?: number;
 }
+
 export default function Section({ name = "It Works!", count = 0 }: Props) {
   /**
    * useSection is a nice hook for getting the HTMX link to render this section,
