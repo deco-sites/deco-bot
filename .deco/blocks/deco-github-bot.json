@@ -155,9 +155,6 @@
           "__resolveType": "Carol"
         },
         {
-          "__resolveType": "Drica"
-        },
-        {
           "__resolveType": "Estrangeiro"
         },
         {
@@ -212,7 +209,14 @@
         "pr_channel_id": "1296129800142065675",
         "summary_channel_id": "1296129800142065675"
       },
-      "users": [],
+      "users": [
+        {
+          "__resolveType": "Candeia"
+        },
+        {
+          "__resolveType": "Gimenes"
+        }
+      ],
       "active": true
     },
     {
