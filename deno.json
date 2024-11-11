@@ -44,7 +44,7 @@
     "drizzle-orm": "https://esm.sh/drizzle-orm@0.30.10",
     "drizzle-orm/": "https://esm.sh/drizzle-orm@0.30.10/",
     "drizzle-kit": "https://esm.sh/drizzle-kit@0.21.2",
-    "deco-bot/": "https://denopkg.com/deco-cx/deco-bot@0.2.5/"
+    "deco-bot/": "https://denopkg.com/deco-cx/deco-bot@0.3.1/"
   },
   "tasks": {
     "start": "deno run -A --unstable-http --env https://deco.cx/run -- deno task dev",
