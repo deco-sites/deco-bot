@@ -22,111 +22,25 @@
           "__resolveType": "Candeia"
         },
         {
-          "__resolveType": "Carol"
-        },
-        {
-          "__resolveType": "Estrangeiro"
-        },
-        {
-          "__resolveType": "Gaudencio"
-        },
-        {
           "__resolveType": "Gimenes"
-        },
-        {
-          "__resolveType": "Hericles"
-        },
-        {
-          "__resolveType": "Itamar"
-        },
-        {
-          "__resolveType": "João Victor"
-        },
-        {
-          "__resolveType": "Jonatas Venancio"
-        },
-        {
-          "__resolveType": "José Miguel"
         },
         {
           "__resolveType": "Lucis"
         },
         {
-          "__resolveType": "Nathan"
-        },
-        {
-          "__resolveType": "Vinicius Trindade"
-        },
-        {
-          "__resolveType": "Vitor Trindade"
-        },
-        {
           "__resolveType": "Pedro França"
-        }
-      ],
-      "active": true
-    },
-    {
-      "github": {
-        "org_name": "deco-cx",
-        "repo_name": "webdraw",
-        "webhook_secret": null
-      },
-      "discord": {
-        "pr_channel_id": "1296129800142065675",
-        "summary_channel_id": "1296129800142065675"
-      },
-      "users": [
-        {
-          "__resolveType": "Brasileiro"
         },
         {
-          "__resolveType": "Camudo"
+          "__resolveType": "Tavano"
         },
         {
-          "__resolveType": "Candeia"
+          "__resolveType": "Jonas"
         },
         {
-          "__resolveType": "Carol"
+          "__resolveType": "Hugo"
         },
         {
-          "__resolveType": "Estrangeiro"
-        },
-        {
-          "__resolveType": "Gaudencio"
-        },
-        {
-          "__resolveType": "Gimenes"
-        },
-        {
-          "__resolveType": "Hericles"
-        },
-        {
-          "__resolveType": "Itamar"
-        },
-        {
-          "__resolveType": "João Victor"
-        },
-        {
-          "__resolveType": "Jonatas Venancio"
-        },
-        {
-          "__resolveType": "José Miguel"
-        },
-        {
-          "__resolveType": "Lucis"
-        },
-        {
-          "__resolveType": "Nathan"
-        },
-        {
-          "__resolveType": "Vinicius Trindade"
-        },
-        {
-          "__resolveType": "Vitor Trindade"
-        },
-        {
-          "__resolveType": "Pedro França"
+          "__resolveType": "Sacci"
         }
       ],
       "active": true
@@ -152,49 +66,25 @@
           "__resolveType": "Candeia"
         },
         {
-          "__resolveType": "Carol"
-        },
-        {
-          "__resolveType": "Estrangeiro"
-        },
-        {
-          "__resolveType": "Gaudencio"
-        },
-        {
           "__resolveType": "Gimenes"
-        },
-        {
-          "__resolveType": "Hericles"
-        },
-        {
-          "__resolveType": "Itamar"
-        },
-        {
-          "__resolveType": "João Victor"
-        },
-        {
-          "__resolveType": "Jonatas Venancio"
-        },
-        {
-          "__resolveType": "José Miguel"
         },
         {
           "__resolveType": "Lucis"
         },
         {
-          "__resolveType": "Mantiqueira"
-        },
-        {
-          "__resolveType": "Nathan"
-        },
-        {
           "__resolveType": "Tavano"
         },
         {
-          "__resolveType": "Vinicius Trindade"
+          "__resolveType": "Pedro França"
         },
         {
-          "__resolveType": "Vitor Trindade"
+          "__resolveType": "Vitoo"
+        },
+        {
+          "__resolveType": "Jonas"
+        },
+        {
+          "__resolveType": "Sacci"
         }
       ],
       "active": true
@@ -235,6 +125,53 @@
         },
         {
           "__resolveType": "Candeia"
+        }
+      ],
+      "active": true
+    },
+    {
+      "github": {
+        "webhook_secret": null,
+        "org_name": "deco-cx",
+        "repo_name": "chat"
+      },
+      "discord": {
+        "pr_channel_id": "1296129800142065675",
+        "summary_channel_id": "1296129800142065675"
+      },
+      "users": [
+        {
+          "__resolveType": "Brasileiro"
+        },
+        {
+          "__resolveType": "Camudo"
+        },
+        {
+          "__resolveType": "Candeia"
+        },
+        {
+          "__resolveType": "Gimenes"
+        },
+        {
+          "__resolveType": "Lucis"
+        },
+        {
+          "__resolveType": "Pedro França"
+        },
+        {
+          "__resolveType": "Tavano"
+        },
+        {
+          "__resolveType": "Jonas"
+        },
+        {
+          "__resolveType": "Hugo"
+        },
+        {
+          "__resolveType": "Sacci"
+        },
+        {
+          "__resolveType": "Dex"
         }
       ],
       "active": true
